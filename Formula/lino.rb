@@ -1,11 +1,11 @@
 class Lino < Formula
   desc "ETL tool to manage test data (Large Input Narrow Output)"
   homepage "https://github.com/CGI-FR/LINO"
-  version "3.5.0"
+  version "3.6.0"
   license "GPL-3.0"
 
-  url "https://github.com/CGI-FR/LINO/releases/download/v3.5.0/LINO_3.5.0_darwin_amd64.tar.gz"
-  sha256 "fddb0dfea312127a7bdfcece634eeced2eb050ece1c000b80796480ffc265673"
+  url "https://github.com/CGI-FR/LINO/releases/download/v3.6.0/LINO_3.6.0_darwin_amd64.tar.gz"
+  sha256 "ba50acd3e7fe9140d81b7268072e92a1c65bac32956d92dc40580aeaa8925a5c"
 
   def install
 
